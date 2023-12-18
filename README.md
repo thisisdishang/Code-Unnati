@@ -1,2 +1,2 @@
 # Code-Unnati
-Code Unnati Program Conducted By Edunet Foundation And SAP India.
+Code Unnati Program Conducted by Edunet Foundation and SAP India.
